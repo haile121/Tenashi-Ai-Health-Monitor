@@ -1,4 +1,4 @@
-# AI-Powered Health Monitoring System
+# Tenashi-AI an AI-Powered Health Monitoring System
 
 A full-stack app that simulates wearable sensor data, detects anomalies in real time using an ML model, and displays live metrics on a React dashboard.
 
